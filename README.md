@@ -12,4 +12,4 @@ Calculate your BMI!
 
 ## Screenshot
 
-<img src="assets/screenshot1.gif">
+<img src="images/screenshot1.gif">
